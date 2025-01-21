@@ -1,12 +1,10 @@
-# ms2-thesis
+# Literature Review
 
-NYU Bobst
-Available , Main Collection ; Q334.7 .M55 2021
+González, Francisco. Towards a new enlightenment?: A transcendent decade. Bilbao, Spain: BBVA OpenMind, 2018. 
 
-(1 copy, 1 available, 0 requests)
+Nirmalya, Thakur, and B. D. Parameshachari. Human-Computer Interaction and beyond: Advances towards smart and interconnected environments. part II. Sharjah, U.A.E: Bentham Books, 2022. 
 
+SCHARF, CALEB. Ascent of information. S.l.: BANTAM PRESS, 2022. 
 
-NYU Bobst
-Available , Main Collection ; PN3352.P7 B58 2020
-
-(1 copy, 1 available, 0 requests)
+Tegmark, Max. Life 3.0: Being human in the age of Artificial Intelligence. 
+New York: Vintage Books, A Division of Penguin Random House LLC, 2018. 
