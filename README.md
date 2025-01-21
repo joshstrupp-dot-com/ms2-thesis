@@ -11,3 +11,4 @@ New York: Vintage Books, A Division of Penguin Random House LLC, 2018.
 
 Blum, Beth. The self-help compulsion: Searching for advice in modern literature. New York: Columbia University Press, 2020. 
 
+Elias, Christopher M. Gossip men: J. Edgar Hoover, Joe McCarthy, Roy Cohn, and the politics of insinuation. Chicago, IL: University of Chicago Press, 2022. 
