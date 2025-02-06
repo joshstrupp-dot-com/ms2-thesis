@@ -1,3 +1,12 @@
+# Thesis Abstract
+This thesis explores the evolution of self-help literature through the lens of data visualization, integrating insights from literary analysis and modern computational techniques. 
+
+By examining the origins and historical shifts of the self-help genre, the study investigates how external societal events and internal narratives of self-improvement converge to shape the advice dispensed by authors. Utilizing the BART-large-lmni zero-shot model, Wikipedia entries, and a comprehensive Goodreads dataset of 60 million books, the research maps natural language trends and identifies key thematic shifts. Additionally, the work examines the credibility of authors, including the influence of celebrity voices, and questions the extent to which self-help addresses challenges imposed by external forces versus self-generated dilemmas.
+
+Looking forward, the thesis also examines the potential transformation of self-help literature in an era dominated by AI and generative technologies. It considers how personalized, AI-generated content might revolutionize the creation of self-help materials—from bespoke titles and synopses to dynamic book covers—offering a fresh perspective on enduring literary practices. 
+
+Ultimately, the study aims to provide a data-driven synthesis of the self-help genre, revealing insights into its enduring appeal and evolving landscape in response to both personal and societal demands.
+
 # Literature Review
 
 González, Francisco. Towards a new enlightenment?: A transcendent decade. Bilbao, Spain: BBVA OpenMind, 2018. 
