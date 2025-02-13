@@ -1,0 +1,848 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 3966,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "HWL6DwAAQBAJ",
+      "etag": "dP0hKDcMozI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HWL6DwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Book You Were Born to Write",
+        "subtitle": "Everything You Need to (Finally) Get Your Wisdom onto the Page and into the Worl d",
+        "authors": ["Kelly Notaras"],
+        "publisher": "Hay House, Inc",
+        "publishedDate": "2020-09-15",
+        "description": "A guide to writing a full-length transformational nonfiction book, from an editor with two decades' experience working in publishing. \"I know I have a book in me.\" \"I've always wanted to be an author.\" \"People always ask me when I'm going to write my book.\" \"I have a story to tell, but I never seem to make time to write.\" Are you a thought leader, healer, or change-agent stuck at the starting line of book publication? Life coach and publishing industry insider Kelly Notaras offers a clear, step-by-step path for turning your transformational idea or story into a finished book as quickly as possible. With humor, encouragement, and common sense, she demystifies the publishing process so you can get started, keep writing, and successfully get your wisdom out into the world. Notaras guides you through: Getting clear on your motivation for writing a book, Crafting a powerful, compelling hook and strong internal book structure, Overcoming resistance and writer's block, and Getting your finished manuscript onto the printed page, whether through traditional publishing or self-publishing. Publishing a book has never been as simple, accessible, and affordable as it is today, and in our tumultuous world, readers need your healing voice. Be brave, be bold, and take the steps you need to share your message with those who need to hear it most.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781401955625"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1401955622"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 298,
+        "printType": "BOOK",
+        "categories": ["Business & Economics"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HWL6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HWL6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=HWL6DwAAQBAJ&printsec=frontcover&dq=self-help&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=HWL6DwAAQBAJ&dq=self-help&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Book_You_Were_Born_to_Write.html?hl=&id=HWL6DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Book_You_Were_Born_to_Write-sample-pdf.acsm?id=HWL6DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HWL6DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Life coach and publishing industry insider Kelly Notaras offers a clear, step-by-step path for turning your transformational idea or story into a finished book as quickly as possible."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IQxPf1_hNb4C",
+      "etag": "uyVyX79laVI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IQxPf1_hNb4C",
+      "volumeInfo": {
+        "title": "This Is How",
+        "subtitle": "Proven Aid in Overcoming Shyness, Molestation, Fatness, Spinsterhood, Grief, Disease, Lushery, Decrepitude & More. For Young and Old Alike.",
+        "authors": ["Augusten Burroughs"],
+        "publisher": "St. Martin's Press",
+        "publishedDate": "2012-05-08",
+        "description": "If you're fat and fail every diet, if you're thin but can't get thin enough, if you lose your job, if your child dies, if you are diagnosed with cancer, if you always end up with exactly the wrong kind of person, if you always end up alone, if you can't get over the past, if your parents are insane and ruining your life, if you really and truly wish you were dead, if you feel like it's your destiny to be a star, if you believe life has a grudge against you, if you don't want to have sex with your spouse and don't know why, if you feel so ashamed, if you're lost in life. If you have ever wondered, How am I aupposed to survive this? This is How.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781250011565"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1250011566"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 239,
+        "printType": "BOOK",
+        "categories": ["Self-Help"],
+        "averageRating": 4.5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.7.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IQxPf1_hNb4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IQxPf1_hNb4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=IQxPf1_hNb4C&printsec=frontcover&dq=self-help&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=IQxPf1_hNb4C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=IQxPf1_hNb4C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=IQxPf1_hNb4C&rdid=book-IQxPf1_hNb4C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/This_Is_How-sample-epub.acsm?id=IQxPf1_hNb4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IQxPf1_hNb4C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "If you have ever wondered, How am I aupposed to survive this? This is How."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KPO1kZ8_k1EC",
+      "etag": "bOOfWbMqw5M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KPO1kZ8_k1EC",
+      "volumeInfo": {
+        "title": "Self-Help Books",
+        "subtitle": "Why Americans Keep Reading Them",
+        "authors": ["Sandra K. Dolby"],
+        "publisher": "University of Illinois Press",
+        "publishedDate": "2010-10-01",
+        "description": "Understanding instead of lamenting the popularity of self-help books Based on a reading of more than three hundred self-help books, Sandra K. Dolby examines this remarkably popular genre to define \"self-help\" in a way that's compelling to academics and lay readers alike. Self-Help Books also offers an interpretation of why these books are so popular, arguing that they continue the well-established American penchant for self-education, they articulate problems of daily life and their supposed solutions, and that they present their content in a form and style that is accessible rather than arcane. Using tools associated with folklore studies, Dolby then examines how the genre makes use of stories, aphorisms, and a worldview that is at once traditional and contemporary. The overarching premise of the study is that self-help books, much like fairy tales, take traditional materials, especially stories and ideas, and recast them into extended essays that people happily read, think about, try to apply, and then set aside when a new embodiment of the genre comes along.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780252090998"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0252090993"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 210,
+        "printType": "BOOK",
+        "categories": ["Social Science"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KPO1kZ8_k1EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KPO1kZ8_k1EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=KPO1kZ8_k1EC&printsec=frontcover&dq=self-help&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=KPO1kZ8_k1EC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=KPO1kZ8_k1EC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 19.95,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=KPO1kZ8_k1EC&rdid=book-KPO1kZ8_k1EC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 19950000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Self_Help_Books-sample-epub.acsm?id=KPO1kZ8_k1EC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Self_Help_Books-sample-pdf.acsm?id=KPO1kZ8_k1EC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KPO1kZ8_k1EC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Self-Help Books also offers an interpretation of why these books are so popular, arguing that they continue the well-established American penchant for self-education, they articulate problems of daily life and their supposed solutions, and ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8dGXDwAAQBAJ",
+      "etag": "T92YmZWDcac",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8dGXDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Self-Help Compulsion",
+        "subtitle": "Searching for Advice in Modern Literature",
+        "authors": ["Beth Blum"],
+        "publisher": "Columbia University Press",
+        "publishedDate": "2020-01-28",
+        "description": "Samuel Beckett as a guru for business executives? James Joyce as a guide to living a good life? The notion of notoriously experimental authors sharing a shelf with self-help books might seem far-fetched, yet a hidden history of rivalry, influence, and imitation links these two worlds. In The Self-Help Compulsion, Beth Blum reveals the profound entanglement of modern literature and commercial advice from the late nineteenth century to the present day. Blum explores popular reading practices in which people turn to literature in search of practical advice alongside modern writers\u2019 rebukes of such instrumental purposes. As literary authors positioned themselves in opposition to people like Samuel Smiles and Dale Carnegie, readers turned to self-help for the promises of mobility, agency, and practical use that serious literature was reluctant to supply. Blum unearths a series of unlikely cases of the love-hate relationship between serious fiction and commercial advice, from Gustave Flaubert\u2019s mockery of early DIY culture to Dear Abby\u2019s cutting diagnoses of Nathanael West and from Virginia Woolf\u2019s ambivalent polemics against self-improvement to the ways that contemporary global authors such as Mohsin Hamid and Tash Aw explicitly draw on the self-help genre. She also traces the self-help industry\u2019s tendency to popularize, quote, and adapt literary wisdom and considers what it might have to teach today\u2019s university. Offering a new history of self-help\u2019s origins, appeal, and cultural and literary import around the world, this book reveals that self-help\u2019s most valuable secrets are not about getting rich or winning friends but about how and why people read.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780231551083"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0231551088"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 507,
+        "printType": "BOOK",
+        "categories": ["Literary Criticism"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8dGXDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8dGXDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8dGXDwAAQBAJ&printsec=frontcover&dq=self-help&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=8dGXDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=8dGXDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 34.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 19.24,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=8dGXDwAAQBAJ&rdid=book-8dGXDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 34990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 19240000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Self_Help_Compulsion-sample-epub.acsm?id=8dGXDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Self_Help_Compulsion-sample-pdf.acsm?id=8dGXDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8dGXDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Offering a new history of self-help\u2019s origins, appeal, and cultural and literary import around the world, this book reveals that self-help\u2019s most valuable secrets are not about getting rich or winning friends but about how and why ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TAdmQgAACAAJ",
+      "etag": "3T2a0wFPsRU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TAdmQgAACAAJ",
+      "volumeInfo": {
+        "title": "Authoritative Guide to Self-help Resources in Mental Health",
+        "authors": ["John C. Norcross"],
+        "publisher": "Guilford Publications",
+        "publishedDate": "2003",
+        "description": "Self-help materials have become a prime source of psychological advice for millions of Americans. While many self-help resources provide high-quality information and support, others may be misleading, inaccurate, or even harmful. This indispensable volume reveals which are the good ones, which are the bad ones, and why. Based on the results of 5 national studies involving over 2,500 mental health professionals, the book reviews and rates 600+ self-help books, autobiographies, and popular films. In addition, hundreds of helpful Internet sites are described and evaluated by a clinical psychologist, and valuable listings are provided of national and online support groups. The concluding chapter presents practical guidelines for selecting an effective self-help resource. Addressing 28 of the most prevalent clinical disorders and life challenges--from ADHD, Alzheimer's, and anxiety disorders, to marital problems and mood disorders, to weight management and women's issues--this timely book will be tremendously useful to consumers and professionals alike.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1572308966"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781572308961"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 468,
+        "printType": "BOOK",
+        "categories": ["Medical"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TAdmQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TAdmQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=TAdmQgAACAAJ&dq=self-help&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=TAdmQgAACAAJ&dq=self-help&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Authoritative_Guide_to_Self_help_Resourc.html?hl=&id=TAdmQgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TAdmQgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The volume is organized around 36 frequently encountered clinical problems and life challenges, with entirely new chapters covering posttraumatic stress disorder, obsessive-compulsive disorder, youth violence, borderline personality ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "httfEAAAQBAJ",
+      "etag": "AhfWCu8+Yfg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/httfEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Book of Overthinking",
+        "subtitle": "How to Stop the Cycle of Worry",
+        "authors": ["Gwendoline Smith"],
+        "publisher": "Andrews McMeel Publishing",
+        "publishedDate": "2022-05-10",
+        "description": "Overthinking, ruminating, worrying: bestselling author Gwendoline Smith explains this common form of anxiety and offers helpful advice for overcoming it. Psychologist Gwendoline Smith explains in clear and accessible language the concepts of positive and negative overthinking, the truth about worry, and how to deal with the \"thought viruses\" that are holding you back. She helps you understand what\u2019s going on in your head\u2014using examples, anecdotes, and plenty of humor\u2014and she offers powerful strategies for addressing your issues. Based on cognitive behavioral theory, this book will help you combat anxious thought patterns in all areas of your life: from your personal life to relationships and work.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781524878511"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1524878510"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 221,
+        "printType": "BOOK",
+        "categories": ["Self-Help"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=httfEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=httfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=httfEAAAQBAJ&printsec=frontcover&dq=self-help&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=httfEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=httfEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=httfEAAAQBAJ&rdid=book-httfEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Book_of_Overthinking-sample-epub.acsm?id=httfEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Book_of_Overthinking-sample-pdf.acsm?id=httfEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=httfEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Based on cognitive behavioral theory, this book will help you combat anxious thought patterns in all areas of your life: from your personal life to relationships and work."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "t6OBOVbi6kEC",
+      "etag": "gQGFh0fBNQQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/t6OBOVbi6kEC",
+      "volumeInfo": {
+        "title": "Oracle at the Supermarket",
+        "subtitle": "The American Preoccupation With Self-Help Books",
+        "authors": ["Steven Starker"],
+        "publisher": "Transaction Publishers",
+        "publishedDate": "2002-01-01",
+        "description": "\"Oracle carefully explores the dangers and benefits of diet and exercise books, sex manuals, and self-actualization schemes. It is a timely and fascinating work, and will be of great interest to health-care providers and thoughtful consumers.\" --Joseph D. Matarazzo,American Psychological Association",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781412830249"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1412830249"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "categories": ["Social Science"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=t6OBOVbi6kEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=t6OBOVbi6kEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=t6OBOVbi6kEC&printsec=frontcover&dq=self-help&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=t6OBOVbi6kEC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=t6OBOVbi6kEC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 31.95,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 17.25,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=t6OBOVbi6kEC&rdid=book-t6OBOVbi6kEC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 31950000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 17250000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Oracle_at_the_Supermarket-sample-epub.acsm?id=t6OBOVbi6kEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Oracle_at_the_Supermarket-sample-pdf.acsm?id=t6OBOVbi6kEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=t6OBOVbi6kEC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Oracle carefully explores the dangers and benefits of diet and exercise books, sex manuals, and self-actualization schemes."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VWySQi_gA8oC",
+      "etag": "EicqKlCAbp0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VWySQi_gA8oC",
+      "volumeInfo": {
+        "title": "Self-Help, Inc.",
+        "subtitle": "Makeover Culture in American Life",
+        "authors": ["Micki McGee"],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2005-09-08",
+        "description": "Why doesn't self-help help? Micki McGee explores the demand for self-help & what it tells us about ourselves.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780195171242"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0195171241"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 305,
+        "printType": "BOOK",
+        "categories": ["Psychology"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VWySQi_gA8oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VWySQi_gA8oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=VWySQi_gA8oC&printsec=frontcover&dq=self-help&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=VWySQi_gA8oC&dq=self-help&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Self_Help_Inc.html?hl=&id=VWySQi_gA8oC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Self_Help_Inc-sample-pdf.acsm?id=VWySQi_gA8oC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VWySQi_gA8oC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Why doesn&#39;t self-help help? Micki McGee explores the demand for self-help &amp; what it tells us about ourselves."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6IqADwAAQBAJ",
+      "etag": "Q/voAXm1T4c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6IqADwAAQBAJ",
+      "volumeInfo": {
+        "title": "Help Me!",
+        "subtitle": "One Woman's Quest to Find Out If Self-Help Really Can Change Your Life",
+        "authors": ["Marianne Power"],
+        "publisher": "Grove Press",
+        "publishedDate": "2019-01-15",
+        "description": "\u201cConsistently entertaining . . . she writes with unflinching honesty . . . Bridget Jones meets Buddha in this plucky, heartwarming, comical debut memoir.\u201d \u2014Kirkus Reviews (starred review) For years journalist Marianne Power lined her bookshelves with dog-eared copies of definitive guides on how to live your best life, dipping in and out of self-help books when she needed them most. Then, one day, she woke up to find that the life she hoped for and the life she was living were worlds apart\u2014and she set out to make some big changes. Marianne decided to finally find out if her elusive \u201cperfect existence\u201d \u2014the one without debt, anxiety, or hangover Netflix marathons, the one where she healthily bounced around town and met the cashmere-sweater-wearing man of her dreams\u2014really did lie in the pages of our best known and acclaimed self-help books. She vowed to test a book a month for one year, following its advice to the letter, taking what she hoped would be the surest path to a flawless new her. But as the months passed and Marianne\u2019s reality was turned upside down, she found herself confronted with a different question: Self-help can change your life, but is it for the better? With humor, audacity, disarming candor and unassuming wisdom, in Help Me Marianne Power plumbs the trials and tests of being a modern woman in a \u201chave it all\u201d culture, and what it really means to be our very best selves. \u201cEqual parts touching and hilarious, Power\u2019s account of the year she spent following the tenets of self-help books will make you feel better about your own flawed life.\u201d \u2014People",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780802146885"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0802146880"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 327,
+        "printType": "BOOK",
+        "categories": ["Self-Help"],
+        "averageRating": 2,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.13.11.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6IqADwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6IqADwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=6IqADwAAQBAJ&printsec=frontcover&dq=self-help&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=6IqADwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=6IqADwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 15.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=6IqADwAAQBAJ&rdid=book-6IqADwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 15990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Help_Me-sample-epub.acsm?id=6IqADwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Help_Me-sample-pdf.acsm?id=6IqADwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6IqADwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With humor, audacity, disarming candor and unassuming wisdom, in Help Me Marianne Power plumbs the trials and tests of being a modern woman in a \u201chave it all\u201d culture, and what it really means to be our very best selves. \u201cEqual parts ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-pI_O3wGTQYC",
+      "etag": "rHEs7wJRCts",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-pI_O3wGTQYC",
+      "volumeInfo": {
+        "title": "Self-help with Illustrations of Conduct and Perseverance",
+        "authors": ["Samuel Smiles"],
+        "publishedDate": "1905",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "SRLF:A0006924237"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 538,
+        "printType": "BOOK",
+        "categories": ["Biography"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-pI_O3wGTQYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-pI_O3wGTQYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=-pI_O3wGTQYC&printsec=frontcover&dq=self-help&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-pI_O3wGTQYC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-pI_O3wGTQYC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=-pI_O3wGTQYC&rdid=book--pI_O3wGTQYC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Self_help_with_Illustrations_of_Conduct.epub?id=-pI_O3wGTQYC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-pI_O3wGTQYC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}
