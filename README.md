@@ -1,3 +1,23 @@
+# Updated Introduction
+The self-help genre, often met with both skepticism and enthusiastic adoption, has become an integral part of contemporary culture. Many individuals may not readily identify as “self-help readers,” yet a closer look at popular authors such as Brené Brown, Malcolm Gladwell, or Jordan Peterson—as well as widely read titles like Atomic Habits and Thinking, Fast and Slow—reveals that the pursuit of self-improvement permeates our reading choices. This widespread interest, whether through books that delve into meditation, investment strategy, spirituality, or even the biochemical underpinnings of stress, reflects a collective desire to better understand and manage the complexities of modern life.
+
+I, too, have immersed myself in this literary landscape, exploring works like The Untethered Soul and The Subtle Art of Not Giving a F**k, in attempts to navigate my very big feelings. My personal journey through self-help literature has been characterized by numerous false starts and moments of fleeting resolve, each experiment with habit change and dietary adjustment underscoring both the appeal and the inherent challenges of self-improvement. 
+
+This reflective experience underscores a broader societal trend: despite the lingering stigma around self-help, millions continue to seek guidance in the hope of achieving a more disciplined, purposeful existence.
+
+Historically, self-help emerged during a period of significant social and economic transformation. Samuel Smiles, often hailed as the father of self-help, published his seminal work (literally titled) Self Help in 1859, inspired by Benjamin Franklin’s maxim, “Heaven helps those that help themselves.” During the industrial revolution, when many faced the hardships of factory work, exploitation, and dwindling social mobility, Smiles’ advocacy for hard work, thrift, and personal responsibility resonated deeply with a society in search of agency. This early incarnation of self-help was inherently linked to external socio-economic challenges—a stark contrast to the internalized focus seen in much of today’s literature.
+
+In the modern era, self-help literature predominantly shifts the locus of responsibility inward, suggesting that the causes and solutions to our problems lie within ourselves rather than in external circumstances. Contemporary narratives often posit a dualistic model in which an individual is divided between a problematic self and a capable self tasked with effecting change. This internal focus can inadvertently foster a culture of self-blame, where the pressures to conform to idealized standards of “should” and “enough” further complicate the pursuit of personal growth. Such a perspective contrasts sharply with the historical context of self-help, where external hardships were the primary catalysts for personal advancement.
+
+This thesis seeks to explore two central questions: 
+
+1. How do world events and external factors influence the issues addressed by self-help literature over time? 
+2. Can we map the expansive landscape of self-help in a way that helps readers identify where their personal challenges align within the genre, and determine which titles offer the most credible guidance?
+
+This study is underpinned by a proprietary dataset that combines tens of thousands of Goodreads titles with zero-shot classification and natural language analysis to answer the above. The data includes how many people read, want to read, or are currently reading the title. It includes data that covers pricing, the author's qualifications for giving advice, the methodological rigor of the research, the complexity of the content, and the tone and intended outcomes of the works. 
+
+This study aims to contextualize self-help within both its historical roots and its modern manifestations. Ultimately, this exploration endeavors to reframe the conversation around self-help—highlighting the interplay between external forces and internal struggles, and challenging the stigma that often shadows the genre.
+
 # (Rough) Introduction
 Origin Story
 In 2020, I did it: I found enlightenment. I was cosplaying as a regular guy, but secretly, I was an unordained monk—a seer of truths, a manifester of oneness.
