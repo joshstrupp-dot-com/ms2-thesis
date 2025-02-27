@@ -1,3 +1,12 @@
+# Rough Viz
+![Group 5](https://github.com/user-attachments/assets/c6e94024-5087-4219-9d5a-a490150be5e9)
+![Group 6](https://github.com/user-attachments/assets/e94a9cb8-a0aa-4897-bea9-4e13b1795181)
+![Group 8](https://github.com/user-attachments/assets/4d7bbf1a-00b3-4ecc-9b88-dbeb977ee1fe)
+![Group 9](https://github.com/user-attachments/assets/1645b189-9d0d-46c2-a43e-25919dccf225)
+![Group 7](https://github.com/user-attachments/assets/1ac43edc-3eac-47e3-a0ea-edb6672ea5a3)
+
+
+
 # Updated Introduction
 The self-help genre, often met with both skepticism and enthusiastic adoption, has become an integral part of contemporary culture. Many individuals may not readily identify as “self-help readers,” yet a closer look at popular authors such as Brené Brown, Malcolm Gladwell, or Jordan Peterson—as well as widely read titles like Atomic Habits and Thinking, Fast and Slow—reveals that the pursuit of self-improvement permeates our reading choices. This widespread interest, whether through books that delve into meditation, investment strategy, spirituality, or even the biochemical underpinnings of stress, reflects a collective desire to better understand and manage the complexities of modern life.
 
