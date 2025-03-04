@@ -1,3 +1,10 @@
+# Design Exploration
+![MacBook Pro 14_ - 1](https://github.com/user-attachments/assets/23fde42c-c58f-4e58-9a58-f4700cce732c)
+![MacBook Pro 14_ - 3](https://github.com/user-attachments/assets/0a8fa016-6b6d-4a0f-b537-fc452be21791)
+![MacBook Pro 14_ - 4](https://github.com/user-attachments/assets/64dd4fbe-7d91-4b7b-9582-543d0cc9d5a5)
+![MacBook Pro 14_ - 5](https://github.com/user-attachments/assets/c4493999-ef9b-4005-9bd1-80239eeb9b07)
+
+
 # Rough Viz
 ![Group 5](https://github.com/user-attachments/assets/c6e94024-5087-4219-9d5a-a490150be5e9)
 ![Group 6](https://github.com/user-attachments/assets/e94a9cb8-a0aa-4897-bea9-4e13b1795181)
