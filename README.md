@@ -1,3 +1,6 @@
+# Revised Design
+https://www.figma.com/proto/qpiC5joO14W3eKomXal52P/MSDV-Design---S2?page-id=643%3A14591&node-id=668-18520&viewport=-5751%2C-4486%2C0.25&t=HWOpbREB7ZVOUhKN-1&scaling=min-zoom&content-scaling=fixed
+
 # Design Exploration
 ![MacBook Pro 14_ - 1](https://github.com/user-attachments/assets/23fde42c-c58f-4e58-9a58-f4700cce732c)
 ![MacBook Pro 14_ - 3](https://github.com/user-attachments/assets/0a8fa016-6b6d-4a0f-b537-fc452be21791)
