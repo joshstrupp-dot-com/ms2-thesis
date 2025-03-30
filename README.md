@@ -1,3 +1,52 @@
+# 02C
+https://www.figma.com/proto/qpiC5joO14W3eKomXal52P/MSDV-Design---S2?page-id=677%3A26613&node-id=846-7434&viewport=-10981%2C-7118%2C0.29&t=L3Ccl6S62Ddu3D0P-1&scaling=min-zoom&content-scaling=fixed
+
+# Revised Design
+![MacBook Pro 14_ - 13](https://github.com/user-attachments/assets/abc6a771-05a3-4e91-93c4-ace29ebc4292)
+![MacBook Pro 14_ - 14](https://github.com/user-attachments/assets/58ca74c0-9abe-48f5-84a3-61b62bd24663)
+![MacBook Pro 14_ - 16](https://github.com/user-attachments/assets/b60b9d06-78e6-4ad2-a25a-d03960190e4c)
+![MacBook Pro 14_ - 17](https://github.com/user-attachments/assets/dcf8a454-fd95-447d-a02e-3d146333024a)
+![MacBook Pro 14_ - 18](https://github.com/user-attachments/assets/62bd3509-f3ed-487c-95bb-4767a3f9732a)
+![MacBook Pro 14_ - 19](https://github.com/user-attachments/assets/171fcd7f-a028-4b79-8bb1-ad0117f38862)
+![MacBook Pro 14_ - 20](https://github.com/user-attachments/assets/7a5dcfd2-7cef-4d11-83f0-9e4d7c3901eb)
+![MacBook Pro 14_ - 21](https://github.com/user-attachments/assets/b968956b-c230-4bb0-bd86-d220b20aa260)
+![MacBook Pro 14_ - 22](https://github.com/user-attachments/assets/3702e80c-0799-4e1a-ae9b-83c1ec8bb726)
+![MacBook Pro 14_ - 23](https://github.com/user-attachments/assets/b4d45c9a-26ed-4f22-9dcb-73bd469055ac)
+![MacBook Pro 14_ - 24](https://github.com/user-attachments/assets/0ce8e840-8522-4795-9b92-0e45db8b318f)
+![MacBook Pro 14_ - 25](https://github.com/user-attachments/assets/9951d660-72c5-4f9f-a996-478dcd0366d1)
+![MacBook Pro 14_ - 26](https://github.com/user-attachments/assets/8dff40df-17ca-4054-ae4a-18d24f5a97a3)
+![MacBook Pro 14_ - 27](https://github.com/user-attachments/assets/7d1c5188-2f74-49d1-b1dc-dd64d6a677c7)
+![MacBook Pro 14_ - 28](https://github.com/user-attachments/assets/e44741a5-0d8f-4769-8a86-940022904ef9)
+![MacBook Pro 14_ - 29](https://github.com/user-attachments/assets/d32c77b4-5515-4400-8de8-c2ac0217de9a)
+![MacBook Pro 14_ - 30](https://github.com/user-attachments/assets/01362d96-55bc-4b4a-8c82-62ccf0edafe2)
+![MacBook Pro 14_ - 31](https://github.com/user-attachments/assets/207b47e7-2db3-4b27-8510-9d6ae1759a5d)
+![MacBook Pro 14_ - 32](https://github.com/user-attachments/assets/cb2aa5db-4151-4afd-923a-58eb95e3bdfb)
+![MacBook Pro 14_ - 33](https://github.com/user-attachments/assets/c76c887d-3c78-4a97-8dd9-1230103dc88f)
+![MacBook Pro 14_ - 34](https://github.com/user-attachments/assets/df2bf4c6-d4e7-47c8-a992-4234d5abb6f7)
+![MacBook Pro 14_ - 35](https://github.com/user-attachments/assets/4951f792-d429-433e-8cd8-76b745d0e090)
+![MacBook Pro 14_ - 36](https://github.com/user-attachments/assets/27c4e8c9-ea69-452b-a3d3-baea57dbe4ac)
+
+
+
+
+https://www.figma.com/proto/qpiC5joO14W3eKomXal52P/MSDV-Design---S2?page-id=643%3A14591&node-id=668-18520&viewport=-5751%2C-4486%2C0.25&t=HWOpbREB7ZVOUhKN-1&scaling=min-zoom&content-scaling=fixed
+
+# Design Exploration
+![MacBook Pro 14_ - 1](https://github.com/user-attachments/assets/23fde42c-c58f-4e58-9a58-f4700cce732c)
+![MacBook Pro 14_ - 3](https://github.com/user-attachments/assets/0a8fa016-6b6d-4a0f-b537-fc452be21791)
+![MacBook Pro 14_ - 4](https://github.com/user-attachments/assets/64dd4fbe-7d91-4b7b-9582-543d0cc9d5a5)
+![MacBook Pro 14_ - 5](https://github.com/user-attachments/assets/c4493999-ef9b-4005-9bd1-80239eeb9b07)
+
+
+# Rough Viz
+![Group 5](https://github.com/user-attachments/assets/c6e94024-5087-4219-9d5a-a490150be5e9)
+![Group 6](https://github.com/user-attachments/assets/e94a9cb8-a0aa-4897-bea9-4e13b1795181)
+![Group 8](https://github.com/user-attachments/assets/4d7bbf1a-00b3-4ecc-9b88-dbeb977ee1fe)
+![Group 9](https://github.com/user-attachments/assets/1645b189-9d0d-46c2-a43e-25919dccf225)
+![Group 7](https://github.com/user-attachments/assets/1ac43edc-3eac-47e3-a0ea-edb6672ea5a3)
+
+
+
 # Updated Introduction
 The self-help genre, often met with both skepticism and enthusiastic adoption, has become an integral part of contemporary culture. Many individuals may not readily identify as “self-help readers,” yet a closer look at popular authors such as Brené Brown, Malcolm Gladwell, or Jordan Peterson—as well as widely read titles like Atomic Habits and Thinking, Fast and Slow—reveals that the pursuit of self-improvement permeates our reading choices. This widespread interest, whether through books that delve into meditation, investment strategy, spirituality, or even the biochemical underpinnings of stress, reflects a collective desire to better understand and manage the complexities of modern life.
 
